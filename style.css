@@ -513,7 +513,7 @@ margin: 0 auto;
         }
     }
     
-    @media(max-width: 425px){
+    @media(max-width: 500px){
         .logo{
             width: 160px;
             height: 160px;
